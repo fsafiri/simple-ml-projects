@@ -1,4 +1,4 @@
-# simple-ml-projects
+# simple-ml-project
 
 Project Overview:
 The purpose of this project was to develop an IT support chatbot for an agency, aimed at assisting users with their IT-related queries and issues. The chatbot was designed to understand user inputs, predict the appropriate response, and engage in a conversation to provide helpful solutions.
